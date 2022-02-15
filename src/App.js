@@ -60,7 +60,7 @@ function App() {
         </div>
 
         <div className={classes.actions}>
-          <button>Find the Location</button>
+          <button>Find Location</button>
         </div>
       </form>
       <div>
